@@ -10,7 +10,7 @@ We are currently nerding out on:
 - **building** a customizable WordPress admin experience with flexibility, accessibility, and personalization
 - **exploring** how to easily migrate *one* page between environments in a non-Gutenberg environment
 - **creating** an easy-to-use starter WordPress theme with modularity at its core
-- **thinking** about building in Gutenberg versus ACF and the balancing act of modular/block-based page creation and editing
+- **thinking** about building in Gutenberg versus the "classic" editor + ACF, and the balancing act of modular/block-based page creation and editing
 - **developing** blazingly fast and simple-to-use JavaScript add-ons for animations & interactions using modern web APIs
 
 ---
@@ -18,4 +18,4 @@ We are currently nerding out on:
 
 **curious, wanting to explore more about simpatico? [learn about us](https://studiosimpati.co/about/)**
 
-**interested and think this sounds like somewhere you'd want to work? [careers @ simpatico](https://studiosimpati.co/careers/)**
+**interested in nerding out with us and think this sounds like somewhere you'd want to work? [careers @ simpatico](https://studiosimpati.co/careers/)**
