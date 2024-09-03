@@ -1,4 +1,4 @@
-# welcome! we are [studio simpatico](https://studiosimpati.co/).
+# welcome! we are [Studio Simpatico](https://studiosimpati.co/).
 
 We are a collaborative, consultative creative studio based in New York City specializing in [web design](https://studiosimpati.co/services/web-design-new-york-nyc/), [UX design](https://studiosimpati.co/services/product-ux-design-agency-new-york/), and [WordPress development](https://studiosimpati.co/services/wordpress-custom-web-development/).
 
